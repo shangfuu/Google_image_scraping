@@ -1,0 +1,11 @@
+# MAc
+.DS_Store
+
+# virtual env
+.venv
+.env
+venv
+env
+
+# images
+images/
